@@ -4,8 +4,8 @@ The files hosted in this repository are used to implement the Robot Aided Drafte
 
 **Authors: Dylan Featherson, Tomas Franco, Charith Sunku**
 
-[**Browse the full documentation: https://charith-sunku.github.io/Robot-Aided-Drafter/**]
-:https://dfeathers9.github.io/Robot-Aided-Drafter/
+[**Browse the full documentation: https://dfeathers9.github.io/Robot-Aided-Drafter/**]
+
 ---
 <table>
 <tr><td width="50%">
